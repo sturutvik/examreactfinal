@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "3083",
+      "productid": "1",
+      "productname": "shirt",
+      "productdate": "22222",
+      "checkIn": "",
+      "checkout": "",
+      "userid": "4"
+    },
+    {
+      "id": "0ac3",
+      "productid": "1",
+      "productname": "shirt",
+      "productdate": "2222",
+      "checkIn": "",
+      "checkout": "",
+      "userid": "22"
+    }
+  ],
+  "reservations": [
+    {
+      "roomid": "",
+      "date": "08/01/2024",
+      "checkIn": "10:00",
+      "checkout": "3:30",
+      "userid": "2",
+      "id": "3"
+    }
+  ]
+}
